@@ -1,5 +1,4 @@
 # Gowalla
-Stalker problem, apply Big Data analytics
 
 [![GitHub issues](https://img.shields.io/github/issues/h3ct0rjs/cliente-servidor.svg)](https://github.com/secano97/strongWeakPruning)
 [![GitHub stars](https://img.shields.io/github/stars/h3ct0rjs/cliente-servidor.svg)](https://github.com/secano97/strongWeakPruning)
