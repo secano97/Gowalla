@@ -12,11 +12,9 @@
 ## Tasks
 The following list is a set of task that we work in the project
 
-| Task/   |      start     |  end |
-|----------|:-------------:|------:|
-| Task1:Data Understanding |  31/01/2020 20:29 | |
-| Task2:Data preparation,Compute raw datasets |  | 
-
+1) Preprocessing data (with concurrence)
+2) Processing the data to calc the staker-stalkee score
+3) presentation of the results. 
 
 ## Cloning
 ```bash
